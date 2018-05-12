@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38667#De-kinderen-van-Kapitein-Grant-eerste-deel--van-3---13-Zuid-Amerika
 gutenberg_issued: '2012-02-02'
 gutenberg_type: Text
 identifiers:
